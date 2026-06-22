@@ -2,7 +2,7 @@ import React from 'react';
 
 export default function App() {
   const WHATSAPP_LINK = "https://wa.me/5554996174905";
-  const GMB_LINK = "https://share.google/P0FEzydHvsrsasUbq";
+  const GMB_LINK = "https://www.google.com/maps/place/Guinchos+SOS+Rocha/@-29.1697487,-51.2133549,12z/data=!3m1!4b1!4m6!3m5!1s0x4e55886a2efda76f:0xeffeb057aaf83ace!8m2!3d-29.1697487!4d-51.2133549!16s%2Fg%2F11nqjwgr34?hl=pt-BR&entry=ttu&g_ep=EgoyMDI2MDYxNi4wIKXMDSoASAFQAw%3D%3D";
 
   return (
     <div className="min-h-screen bg-zinc-950 font-sans flex flex-col text-zinc-100 selection:bg-red-500 selection:text-white relative">
