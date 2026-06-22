@@ -228,11 +228,11 @@ export default function App() {
                   <div className="pl-12">
                     <a href={GMB_LINK} 
                        target="_blank" rel="noopener noreferrer"
-                       className="w-full sm:w-auto inline-flex justify-center items-center gap-3 bg-red-600 hover:bg-red-500 text-white font-black text-lg py-5 px-8 rounded-full transition-all shadow-xl hover:-translate-y-2 active:scale-95">
-                      <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="3" strokeLinecap="round" strokeLinejoin="round">
+                       className="inline-flex justify-center items-center gap-2 bg-red-600 hover:bg-red-500 text-white font-bold text-sm sm:text-base py-3 px-6 rounded-full transition-all shadow-md hover:-translate-y-1 active:scale-95">
+                      <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round">
                         <path d="M14 2v4a2 2 0 0 0 2 2h4"/><path d="m21 21-5.197-5.197m0 0A7.5 7.5 0 1 0 5.196 5.196a7.5 7.5 0 0 0 10.607 10.607Z"/>
                       </svg>
-                      Abrir Rota no Google Maps
+                      Ver no Google Maps
                     </a>
                   </div>
                 </div>
